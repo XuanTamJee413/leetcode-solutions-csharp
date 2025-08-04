@@ -19,23 +19,41 @@ It's part of my journey to improve problem-solving and algorithm skills through 
 ## Folder Structure
 
 leetcode-solutions-csharp/
+
 │
+
 ├── LeetcodeSolutions/               # Project gốc
+
 │   ├── Leetcode/                    # Code chính
+
 │   │   ├── Leetcode.csproj
+
 │   │   ├── Easy/
+
 │   │   │   ├── TwoSumSln.cs
+
 │   │   │   └── RomanToIntSln.cs
+
 │   │   └── ...                      # Medium/, Hard/, v.v.
+
 │   │
+
 │   └── Leetcode.Tests/             # Unit tests
+
 │       ├── Leetcode.Tests.csproj
+
 │       ├── Easy/
+
 │       │   ├── TwoSumTests.cs
+
 │       │   └── RomanToIntTests.cs
+
 │       └── ...
+
 │
+
 ├── .gitignore
+
 └── README.md
 
 ## Progress

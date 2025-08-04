@@ -1,0 +1,67 @@
+## Build results
+bin/
+obj/
+out/
+[Ll]og/
+*.log
+*.tmp
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+
+## Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+## VS Code
+.vscode/
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.*.json
+secrets.json
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Others
+*.db
+*.sqlite
+*.mdb
+*.bak
+*.swp
+
+## Auto-generated files
+Generated/
+Generated*/  # e.g., GeneratedCode/
+
+## Temporary files
+*.tmp
+*.temp
+~$*
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## Ignore publish output
+publish/
+wwwroot/
